@@ -122,7 +122,7 @@ function App() {
             <svg width="90" height="20" viewBox="0 0 90 20" fill="none">
               <rect width="24" height="20" rx="4" fill="#FF0000"/>
               <polygon points="10,5 10,15 18,10" fill="white"/>
-              <text x="28" y="15" fill="white" fontSize="14" fontWeight="700" fontFamily="Roboto, sans-serif">Tube</text>
+              <text x="28" y="15" fill="white" fontSize="14" fontWeight="700" fontFamily="Roboto, sans-serif">YouTube</text>
             </svg>
           </div>
           <div style={styles.searchBar}>
