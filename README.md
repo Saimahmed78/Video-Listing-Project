@@ -80,6 +80,7 @@ src/
 
 > YouTube-style dark UI with a responsive grid, skeleton loaders, and per-card stats (views, likes, comments).
 
+![App Preview](../public/Preview%20Image.png)
 
 
 ## 👤 Author
