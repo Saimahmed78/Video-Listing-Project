@@ -2,7 +2,7 @@
 
 A React-based video listing app that fetches videos and their metadata from an API and displays them in a YouTube-style layout — built to practice component architecture, state management, and hooks.
 
----
+
 
 ## 🚀 Features
 
@@ -15,7 +15,7 @@ A React-based video listing app that fetches videos and their metadata from an A
 - Graceful error handling on fetch failure
 - Sticky header with search bar UI
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +23,7 @@ A React-based video listing app that fetches videos and their metadata from an A
 - **Vanilla CSS-in-JS** — inline styles with a centralized `styles` object
 - **FreeAPI** — public YouTube data API
 
----
+
 
 ## 📦 Getting Started
 
@@ -41,7 +41,7 @@ npm install
 npm run dev
 ```
 
----
+
 
 ## 🔌 API
 
@@ -53,7 +53,7 @@ GET https://api.freeapi.app/api/v1/public/youtube/videos
 
 No API key required.
 
----
+
 
 ## 📁 Project Structure
 
@@ -64,7 +64,7 @@ src/
 └── assets/        # Static assets
 ```
 
----
+
 
 ## 🧠 Concepts Practiced
 
@@ -74,13 +74,13 @@ src/
 - Conditional rendering (skeleton → data / error)
 - Helper functions for formatting counts and dates
 
----
+
 
 ## 🖼️ Preview
 
 > YouTube-style dark UI with a responsive grid, skeleton loaders, and per-card stats (views, likes, comments).
 
----
+
 
 ## 👤 Author
 
